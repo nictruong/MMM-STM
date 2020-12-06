@@ -1,0 +1,17 @@
+{
+  "name": "mmm-stm",
+  "version": "1.0.0",
+  "description": "Magic Mirror Module for STM Bus schedules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Truong",
+  "license": "ISC",
+  "dependencies": {
+    "gtfs-realtime-bindings": "0.0.6",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
